@@ -14,7 +14,7 @@ class Works extends React.Component {
                 <CardTitle className='main-title'>
                   Works
                 </CardTitle>
-                <p className='works-desc'>Here is a collection of some of my works. To view the projects below click on the deployed link, or click on the Github button to view the code base. To see more of my works visit my Github from the <Link to="/contact">Contact</Link> page.</p>
+                <p className='works-desc'>Here is a collection of some of my recent work. To view the projects below click on the deployed link, or click on the Github button to view the code base. To see more of my works visit my Github from the <Link to="/contact">Contact</Link> page.</p>
                 <CardBody className='work-card'>
                     {this.state.works.map(work => (
                         <WorkCard
