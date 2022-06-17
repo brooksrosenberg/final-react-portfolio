@@ -8,7 +8,7 @@ const works = [
         'id': 1,
         'name': 'Craft',
         'photo': craftImg,
-        'info': 'This fullstack application is an clothing ecommerce store with payment services',
+        'info': 'This fullstack application is a clothing ecommerce store with payment services',
         'tech': 'React.js, Express.js, Node.js, MongoDB, CryptoJS, Stripe, EmailJS, Redux, Axios',
         'deployedLink': 'https://limitless-reef-31254.herokuapp.com/',
         'githubLink': 'https://github.com/brooksrosenberg/reactEcommerceStore'
