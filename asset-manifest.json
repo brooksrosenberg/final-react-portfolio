@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.6fc71bce.css",
-    "main.js": "/static/js/main.907db84b.js",
-    "static/media/craftImg.png": "/static/media/craftImg.bb18c54df88a695d70a1.png",
-    "static/media/carEzScreenshot.png": "/static/media/carEzScreenshot.938087c9ac039a0f88d9.png",
-    "static/media/OracleProjectScreenshot.png": "/static/media/OracleProjectScreenshot.0a266aaba8e95fb6a483.png",
-    "static/media/techResumeactual.pdf": "/static/media/techResumeactual.c6173c9bff6de889fc3e.pdf",
-    "static/media/personalAvatar.png": "/static/media/personalAvatar.e26a6be1f4fe350ca34d.png",
-    "index.html": "/index.html",
-    "main.6fc71bce.css.map": "/static/css/main.6fc71bce.css.map",
-    "main.907db84b.js.map": "/static/js/main.907db84b.js.map"
+    "main.css": "/final-react-portfolio/static/css/main.6fc71bce.css",
+    "main.js": "/final-react-portfolio/static/js/main.178605c3.js",
+    "static/media/craftImg.png": "/final-react-portfolio/static/media/craftImg.bb18c54df88a695d70a1.png",
+    "static/media/carEzScreenshot.png": "/final-react-portfolio/static/media/carEzScreenshot.938087c9ac039a0f88d9.png",
+    "static/media/OracleProjectScreenshot.png": "/final-react-portfolio/static/media/OracleProjectScreenshot.0a266aaba8e95fb6a483.png",
+    "static/media/techResumeactual.pdf": "/final-react-portfolio/static/media/techResumeactual.c6173c9bff6de889fc3e.pdf",
+    "static/media/personalAvatar.png": "/final-react-portfolio/static/media/personalAvatar.e26a6be1f4fe350ca34d.png",
+    "index.html": "/final-react-portfolio/index.html",
+    "main.6fc71bce.css.map": "/final-react-portfolio/static/css/main.6fc71bce.css.map",
+    "main.178605c3.js.map": "/final-react-portfolio/static/js/main.178605c3.js.map"
   },
   "entrypoints": [
     "static/css/main.6fc71bce.css",
-    "static/js/main.907db84b.js"
+    "static/js/main.178605c3.js"
   ]
 }
