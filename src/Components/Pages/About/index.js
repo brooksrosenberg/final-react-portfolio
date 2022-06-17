@@ -19,7 +19,7 @@ class About extends React.Component {
         <br></br>
         <div>
           <p className="desc">
-            I am a Colorado based full-stack web developer with a background in Economics. When I am not out fishing or traveling, I am helping you make your web based dreams a digital reality. If you like what you see, then head over to the <Link to="/contact">Contact</Link> page reach out. I look forward to hearing from you!
+            I am a Colorado-based full-stack web developer. I earned my education at Boston University and Columbia University, and have a degree in Economics. When I am not out fishing, I am helping you make your web based dreams a digital reality. If you like to colaborate, then head over to the <Link to="/contact">Contact</Link> page to reach out. I look forward to hearing from you!
           </p>
           </div>
           <Row>
