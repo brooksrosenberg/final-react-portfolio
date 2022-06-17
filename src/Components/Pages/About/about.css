@@ -1,0 +1,64 @@
+.about {
+  display: flex;
+  height: 100vh;
+}
+.name {
+text-align: center;
+font-size: 50px;
+margin-bottom: 0;
+
+}
+
+.card-title {
+text-align: center;
+font-size: 30px;
+margin-bottom: 0;
+}
+
+.avatarImg {
+  flex: 1;
+  display: flex;
+  align-items: left;
+  margin-right: 20%;
+  margin-top: 0%;
+  height: auto;
+  }
+
+  .card-body {
+    text-align: center;
+    font-size: 22px
+  }
+
+  div.myskills.row {
+   flex: 1;
+   display: flex;
+   align-items: right;
+   margin-left: 20%;
+  }
+  .skillname {
+    margin-left: 20%;
+    text-align: left;
+  }
+
+  @media only screen and (max-width: 768px) {
+    .avatarImg {
+      height: 250px;
+      width: 200px;
+      margin-left: 3%;
+    }
+    div.myskills.row {
+      font-size: 11pt;
+      align-items: right;
+     
+     }
+     .desc {
+        font-size: 12pt;
+     }
+     .name{
+       font-size: 30pt;
+     }
+     .card-title{
+       font-size: 20pt;
+     }
+  }
+  
