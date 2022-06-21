@@ -95,7 +95,7 @@ const Contact = (props) => {
               through Linkedin or email by clicking on name next to the icons
               below.
             </p>
-            <CardBody>
+            <CardBody className="cardBody-phone">
               <Row className="main-row-phone">
               
               
