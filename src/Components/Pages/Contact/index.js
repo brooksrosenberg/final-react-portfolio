@@ -12,7 +12,7 @@ import Github from "../../Pictures/githubIcon.png";
 import Linkedin from "../../Pictures/linkedinIcon.png";
 import Icon from "../../Pictures/mailIcon.png";
 import ResumeIcon from "../../Pictures/resumeIcon.png";
-import Resume from "../../Pictures/techResumeactual.pdf";
+import Resume from "../../Pictures/resume.pdf";
 import { ContactUs } from "../../Sections/ContactUs/ContactUs";
 import MediaQuery, { useMediaQuery } from "react-responsive";
 
