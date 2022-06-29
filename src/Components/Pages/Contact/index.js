@@ -91,8 +91,8 @@ const Contact = (props) => {
             <CardTitle>Contact Me</CardTitle>
             <p className="contactTextp">
               If you would like to see more of my work or would like to reach
-              out, feel free to contact me throught me message section or
-              through Linkedin or email by clicking on name next to the icons
+              out, feel free to contact me throught the message section,
+              Linkedin or email by clicking on name next to the icons
               below.
             </p>
             <CardBody className="cardBody-phone">
