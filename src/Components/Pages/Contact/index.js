@@ -34,7 +34,7 @@ const Contact = (props) => {
             <CardTitle>Contact Me</CardTitle>
             <p className="contactText">
               If you would like to see more of my work or would like to reach
-              out, feel free to contact me through the message section, Linkedin or by clicking on my email next to the icon below.
+              out, feel free to contact me through the message section, Linkedin or email by clicking on the link next to the icon below.
             </p>
             <CardBody>
               <Row className="main-row">
