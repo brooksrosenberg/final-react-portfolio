@@ -59,7 +59,7 @@ const Contact = (props) => {
                   <Row className="sub-row">
                   <NavLink href="https://mail.google.com/" className="contactNav">
                     <img src={Icon} alt=" Mail-Icon" className="logo"></img> :
-                    bjtr@bu.edu
+                    Brooks.Rosenberg.Dev@gmail.com
                   </NavLink>
                   </Row>
                     <Row className="sub-row">
